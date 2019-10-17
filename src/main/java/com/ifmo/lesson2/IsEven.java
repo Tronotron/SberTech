@@ -3,7 +3,7 @@ package com.ifmo.lesson1;
 public class IsEven {
 
     public static void main(String[] args) {
-        int n = 24;
+        int n = 68;
 
         System.out.println(isEven(n));
     }

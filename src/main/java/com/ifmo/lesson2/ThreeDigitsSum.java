@@ -1,8 +1,9 @@
 package com.ifmo.lesson1;
 
 public class ThreeDigitsSum {
+
     public static void main(String[] args) {
-        int n = 123;
+        int n = 368;
 
         int sum = sum(n);
 
